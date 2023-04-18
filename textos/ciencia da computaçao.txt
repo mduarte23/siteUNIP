@@ -1,0 +1,116 @@
+1. Objetivos do Curso de Ciência da Computação
+Com o intuito de estimular e contribuir para a preparação de mão-de-obra especializada e indispensável à política de desenvolvimento nacional, o bacharel em Ciência da Computação tem sua formação focada, principalmente, para o projeto e desenvolvimento de produtos de software (que se transformarão em ferramentas auxiliares, e de apoio, ao desenvolvimento de sistemas de informação) e na criação/manutenção do ambiente tecnológico da organização (banco de dados, sistemas operacionais, redes de computadores, etc.).
+
+O campo da Ciência da Computação não se restringe aos computadores. Inclui também o desenvolvimento de trabalhos práticos no setor. Por isso, cabe ao bacharel em Ciência da Computação dedicar-se aos aspectos científicos, trabalhando no desenvolvimento e adaptação de sistemas importados, no processamento de dados científicos e técnicos, bem como na criação de novas linguagens de programação e novas arquiteturas de hardware.
+
+Para atingir o objetivo, o curso é dividido em três partes:
+
+Ciclo Básico;
+Ciclo Programação;
+Ciclo Suporte Técnico.
+No Ciclo Básico, comum aos cursos de Sistemas de Informação e Ciência da Computação, são lecionadas as disciplinas que dão base ao aluno, capacitando-o a acompanhar as disciplinas dos outros ciclos. É finalidade do Ciclo Básico, também, fazer a transição entre o curso secundário e a parte profissionalizante de um curso universitário propriamente dito.
+
+No Ciclo Programação constam as disciplinas que abrangem desde os aspectos básicos de programação de computadores até o enfoque sistêmico de problemas e suas soluções.
+
+No Ciclo Suporte Técnico, procura-se fazer com que o aluno adquira os conhecimentos necessários sobre os ambientes de hardware e software, de forma a poder propor soluções.
+
+As características necessárias para atuar na área são: raciocínio lógico, exatidão, concentração, organização e iniciativa.
+
+Para atender às solicitações de profissionais dessa área, o currículo pleno do curso inclui disciplinas que abrangem os aspectos mais avançados da computação, possibilitando ao egresso cumprir o seu papel com dinamismo, objetividade e eficiência. Faça sua inscrição no curso de Ciência da Computação EAD ou Presencial da UNIP!
+
+2. Atividades Principais
+Desenvolver programas para uso específico (softwares);
+Detectar erros e problemas em sistemas operacionais e de bancos de dados;
+Estudar os fundamentos e técnicas da informática, criando novos sistemas operacionais e produtos de software.
+3. Mercado de Trabalho
+As perspectivas atuais são ótimas para os cientistas da computação, principalmente nas empresas privadas, universidades, órgãos governamentais, fabricantes de software e hardware e consultorias. Como consequência do contínuo aumento na venda de computadores e equipamentos de informática, verifica-se um aumento crescente na demanda por especialistas para esta área.
+
+A atuação do cientista computacional é requisitada em laboratórios de pesquisas e desenvolvimento industrial, em empresas que desenvolvem interfaces, simulações, aplicativos, softwares e afins, em empresas que realizam manutenção, alterações, suporte, perícias e auditorias e também na área acadêmica, como professor ou pesquisador, entre outras.
+
+A tendência mundial na área de computação é a terceirização e, atualmente, estão em alta todas as áreas do setor relacionadas com as telecomunicações, banco de dados, multimídia e computação gráfica.
+
+4. Práticas
+Laboratório de Informática (Windows, HTML responsivo, App Inventor, Python, Linux, Java, NetBeans, Eclipse e outros)
+Anfiteatro com Recursos de Multimídia, Telões, Datashow e outros
+Estágio Supervisionado
+Monitoria
+Iniciação Científica
+Visitas Técnicas
+Semana de Palestras e Atividades Específica
+5. Duração
+4 anos
+
+
+
+
+
+disciplinas
+
+
+Administração	30
+Álgebra Linear	30
+Análise de Algoritmos	30
+Análise Matemática	30
+Aplicações de Linguagem de Programação Orientada a Objetos	90
+Arquitetura de Computadores Modernos	30
+Arquitetura de Redes de Computadores	30
+Aspectos Teóricos da Computação	30
+Atividades Complementares	200
+Atividades Práticas Supervisionadas	600
+Banco de Dados	90
+Cálculo Numérico Computacional	30
+Cálculo para Computação	30
+Ciência da Computação Integrada	30
+Ciência da Computação Interdisciplinar	30
+Ciência de Dados	30
+Ciências Sociais	30
+Circuitos Lógicos Digitais 	60
+Compiladores e Computabilidade	30
+Computação Gráfica	30
+Comunicação e Expressão	30
+Desenvolvimento de Sistemas Distribuídos	60
+Direitos Humanos (Optativa)	20
+Educação Ambiental (Optativa)	20
+Empreendedorismo	30
+Engenharia de Software 	60
+Estágio	440
+Estatística e Probabilidade	30
+Estrutura de Dados 	60
+Estudos Disciplinares	90
+Física para Computação	30
+Fundamentos de Realidade Virtual e Aumentada	30
+Geometria Analítica	30
+Gestão de Projetos	30
+Homem e Sociedade	30
+Inteligência Artificial	60
+Interface Humano Computador	60
+Interpretação e Produção de Textos	30
+Introdução a Programação Estruturada	90
+Legislação Computacional e Ética	30
+Língua Brasileira de Sinais - LIBRAS (Optativa)	20
+Linguagem de Programação de Banco de Dados	60
+Linguagem de Programação Orientada a Objetos	90
+Linguagens Formais e Autômatos	30
+Lógica de Programação e Algoritmos	90
+Logica Matemática	30
+Matemática Discreta	30
+Metodologia do Trabalho Acadêmico	30
+Métodos de Pesquisa	30
+Noções de Direito	30
+Orientação - Estágio	30
+Paradigmas de Linguagens	30
+Pesquisa Operacional	30
+Processamento de Imagem e Visão Computacional	30
+Programação para Dispositivos Móveis	60
+Programação Web Responsiva	60
+Qualidade de Software 	60
+Relações Étnico-Raciais e Afrodescendência (Optativa)	20
+Sistemas Distribuídos	60
+Sistemas Operacionais 	60
+Sistemas Operacionais Abertos e Móbile	90
+Teoria dos Grafos	30
+Tópicos de Ambiente Web	30
+Tópicos de Atuação Profissional - Ciência da Computação	30
+Tópicos de Matemática Aplicada	30
+Trabalho de Curso I	30
+Trabalho de Curso II
